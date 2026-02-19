@@ -1,4 +1,7 @@
 # Documentos proyecto nómina 
 
-└───Acta
-        ProyectoNómina.pdf
+```
+📁
+└───📁Acta
+    └───📄ProyectoNómina.pdf
+```

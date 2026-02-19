@@ -10,4 +10,4 @@
 
 Repositorios de código asociados a este proyecto.
 
-[😁 Landing Page:](https://github.com/CristianArevaloDuran/Nomina-Landing)
+[😁 Landing Page.](https://github.com/CristianArevaloDuran/Nomina-Landing)
